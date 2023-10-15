@@ -27,7 +27,6 @@
 #region //task 3
 //int[] numbers = { 3, 5, 9, 15, 70 };
 //int result = 0;
-//int counter = 0;
 
 //foreach (int number in numbers)
 //{
